@@ -31,7 +31,7 @@ Below there are some examples of how you will actually use the libraries to conv
 
 ### Template helpers
 
-    My emoji {{emojione ':beers:'}} text.
+    My emoji {{> emojione ':beers:'}} text.
 
 Or
 
